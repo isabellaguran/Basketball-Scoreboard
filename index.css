@@ -1,0 +1,55 @@
+html body{
+background-color: #0C4A6E;
+    
+}
+body {
+    margin: 0;
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKHcW6ldg-nGe9tGioDMDD3w4LkfUU_Tdc1Q&usqp=CAU");
+  position: relative;
+ background-size: cover;
+    height: 500px;
+  
+ }
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+ border-radius: 20px;
+    color: white;
+    border: white 2px solid;
+    background: #1B244A;
+    cursor: pointer;
+    background-color: transparent;
+    
+    font-family: 'Cursed Timer ULiL';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+}
+#home-score , #guest-score{
+    font-size: 50px;
+    font-family: CursedTimer;
+    
+    color: #F94F6D;
+    background: black;
+    padding: 10px 55px;
+    border-radius: 10px;
+   
+}
+h2{
+    text-align: center;
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL';
+    
+}
